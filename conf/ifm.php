@@ -17,8 +17,8 @@ class IFM {
 		// general config
 		"auth" => 0,
 		"auth_source" => 'inline;admin:$2y$10$0Bnm5L4wKFHRxJgNq.oZv.v7yXhkJZQvinJYR2p6X1zPvzyDRUVRC',
-		"root_dir" => "",
-		"root_public_url" => "",
+		"root_dir" => "/",	
+		"root_public_url" => "/ifm",
 		"tmp_dir" => "",
 		"timezone" => "",
 		"forbiddenChars" => array(),
