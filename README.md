@@ -17,6 +17,8 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 The IFM is a web-based filemanager, which comes as a single file solution using HTML5, CSS3, JavaScript and PHP. 
 
+**Forked to change `root dir` for special operations.**
+
 ### features
 
 - create/edit files and directories
